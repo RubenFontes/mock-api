@@ -1,0 +1,92 @@
+{
+  "data": {
+    "tipos": [
+      {
+        "id": 1,
+        "tipo": "Tipo 2"
+      },
+      {
+        "id": 2,
+        "tipo": "Tipo 3"
+      },
+      {
+        "id": 3,
+        "tipo": "Tipo 4"
+      },
+      {
+        "id": 4,
+        "tipo": "Tipo 5"
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "tipo": "Categoria 2"
+      },
+      {
+        "id": 2,
+        "tipo": "Categoria 3"
+      },
+      {
+        "id": 3,
+        "tipo": "Categoria 4"
+      },
+      {
+        "id": 4,
+        "tipo": "Categoria 5"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Opção 1"
+      },
+      {
+        "id": 2,
+        "tipo": "Opção 2"
+      },
+      {
+        "id": 3,
+        "tipo": "Opção 3"
+      },
+      {
+        "id": 4,
+        "tipo": "Opção 4"
+      },
+      {
+        "id": 5,
+        "tipo": "Opção 5"
+      },
+      {
+        "id": 6,
+        "tipo": "Opção 6"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "pedidos": [
+    {
+      "nome": "Ruben Fontes",
+      "campo2": "Categoria 1",
+      "campo1": "Tipo 1",
+      "opcionais": [
+        "Opção 1"
+      ],
+      "status": "Finalizado",
+      "id": 1
+    }
+  ]
+}
